@@ -4230,7 +4230,7 @@
 
 #three, #four, #footer section {display:none}
 
-#banner b {
+#banner .highlight {
 	color: white;
 	font-weight: 900 !important;
   }
